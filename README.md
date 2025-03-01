@@ -1,6 +1,6 @@
 # Venue Management Backend (Spring Boot)
 
-This is the backend service for the Venue Management System, built using **Spring Boot**, **JPA**, and **H2/MySQL**. It provides APIs for managing venues, events, and addresses.
+This is the backend service for the Venue Management System, built using **Spring Boot**, **JPA**, and **PostgrSQL**. It provides APIs for managing venues, events, and addresses.
 
 ## 🚀 Features
 - 🏢 Venue Management (Create, Update, Delete)
