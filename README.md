@@ -14,21 +14,8 @@ This is the backend service for the Venue Management System, built using **Sprin
 - **Security:** Spring Security & JWT
 
 ## Project Structure
-src
-├── main
-│   ├── java
-│   │   └── com
-│   │       └── venue
-│   │           ├── controller     # API Controllers handling requests
-│   │           ├── dto            # Data Transfer Objects for request/response bodies
-│   │           ├── entity         # Entity Models representing database tables
-│   │           ├── mapper         # Mapper Classes for converting between DTOs and entities
-│   │           ├── repository     # JPA Repositories for data access layer
-│   │           └── service        # Service Layer containing business logic
-│   └── resources
-│       ├── application.properties # Configuration Properties (DB settings, etc.)
-│       └── data.sql               # Sample Data for testing purposes
-└── test                           # Unit and Integration Tests
+![image](https://github.com/user-attachments/assets/a1b41c12-da0c-4d24-998b-8f84bf96f2a9)
+
 
 Method	Endpoint	Description
 GET	/venues	Get all venues
